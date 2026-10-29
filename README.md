@@ -95,4 +95,10 @@ Constructive feedback on product design, data modelling, responsible AI, and bus
 
 ## Disclaimer
 
-This repository documents an evolving product concept and its development. Proposed features are not necessarily implemented. Any future profiles or research outputs should rely on appropriate sources, clearly distinguish facts from estimates, and avoid presenting unsupported claims as
+This repository documents an evolving product concept and its development. Proposed features are not necessarily implemented. Any future profiles or research outputs should rely on appropriate sources, clearly distinguish facts from estimates, and avoid presenting unsupported claims as verified information.
+
+---
+
+**Project:** People & Business Intelligence Platform  
+**Category:** B2B SaaS · Business Intelligence · AI Research  
+**Status:** Product discovery and MVP planning
